@@ -21,5 +21,5 @@
 
 | Name               | Solution                                              |
 | ------------------ | ----------------------------------------------------- |
-| proxy-state valtio |                                                       |
+| button-toggle      | [TypeScript](./src/components/button-toggle.tsx       |
 | phone number input | [TypeScript](./src/components/phone-number-input.tsx) |
