@@ -22,4 +22,5 @@
 | Name               | Solution                                              |
 | ------------------ | ----------------------------------------------------- |
 | button-toggle      | [TypeScript](./src/components/button-toggle.tsx)      |
+| color-dropdown     | [TypeScript](./src/components/color-dropdown.tsx)     |
 | phone number input | [TypeScript](./src/components/phone-number-input.tsx) |
